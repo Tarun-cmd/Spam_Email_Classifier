@@ -10,3 +10,6 @@ The prediction is 97% accurate.
 Naive Bayes Classifier is used in the classification.
 
 Streamlit is used for build an user-friendly GUI.
+
+**Save the config file in a folder named < .streamlit >**
+ The config file is the page layout.
